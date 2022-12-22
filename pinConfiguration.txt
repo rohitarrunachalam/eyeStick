@@ -1,0 +1,31 @@
+ULTRASONIC SENSORS :
+
+US 1 - echoPin1 : 12
+US 1 - trigPin1 : 13
+
+US 2 - echoPin2 : 2
+US 2 - trigPin2 : 3
+
+US 3 - echoPin3 : 7
+US 3 - trigPin3 : 8
+
+VIBRATOR MOTOR :
+
+motorPin : 9
+
+BUZZER :
+
+buzzePin : 10
+
+PUSH BUTTON :
+
+buttonPin : 1
+
+FLAME DETECTION 
+
+flame_sensor = 4
+
+WATER SENSOR :
+
+POWER_PIN = 5
+SIGNAAL_PIN = A5
