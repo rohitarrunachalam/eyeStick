@@ -37,7 +37,7 @@ git clone https://github.com/rohitarrunachalam/eyeStick
 ### Technologies Used
 
 
-<img src="https://github.com/rohitarrunachalam/eyeStick/blob/main/demo/arduino-logo-1.png" width=15% height=15%> 
+<img src="https://github.com/rohitarrunachalam/eyeStick/blob/main/demo/arduino-logo-1.png" width=10% height=10%> 
 
 
 
