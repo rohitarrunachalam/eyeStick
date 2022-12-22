@@ -1,10 +1,10 @@
 # eyeStick with You !
-AI Assistance tool for Sign Language Conversion !
+An IoT based walking stick which helps people with visual impairment to overcome their difficulties and act independently.
+
 ### Table of Contents  
 - [Overview](#Overview)  
 - [Working](#Working) 
-- [Installation](#Installation) 
-- [Run](#Run) 
+- [Installation & Running](#Installation & Running) 
 - [Technologies Used](#Technologies%Used) 
 - [Got a Question](#Got%a%Question%?) 
 
