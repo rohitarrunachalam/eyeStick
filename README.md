@@ -4,7 +4,7 @@ An IoT based walking stick which helps people with visual impairment to overcome
 ### Table of Contents  
 - [Overview](#Overview)  
 - [Working](#Working) 
-- [Installation & Running](#Installation & Running) 
+- [Installation & Running](#Installation%&%Running) 
 - [Technologies Used](#Technologies%Used) 
 - [Got a Question](#Got%a%Question%?) 
 
