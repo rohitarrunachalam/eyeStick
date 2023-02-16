@@ -36,10 +36,7 @@ git clone https://github.com/rohitarrunachalam/eyeStick
 
 ### Technologies Used
 
-
-<img src="https://github.com/rohitarrunachalam/eyeStick/blob/main/demo/arduino-logo-1.png" width=10% height=10%> 
-
-
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### Got a Question ?
 
